@@ -1,7 +1,7 @@
 @echo off & setlocal EnableDelayedExpansion
 setlocal
 :: Sets the script variables and directory names
-echo ------------SCANNED FILE SORTER SCRIPT------------
+echo ------------SERIALIZED FILE SORTER SCRIPT------------
 echo ---------------Initializing script----------------
 :: Comment out if your file paths are variable
 
