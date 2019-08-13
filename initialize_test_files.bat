@@ -1,8 +1,5 @@
 @echo off
 :: Initalize test files
-set /A serial=19000
-set surInitial=P
-
 rmdir /s testBox\
 rmdir /s testDest\
 rmdir /s testSrc\
